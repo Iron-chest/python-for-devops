@@ -115,3 +115,7 @@ deactivate
 ```
 
 Once activated, you work in an isolated workspace with its Python interpreter and library dependencies.
+
+## 4. Python Package Index (PyPI)
+The Python Package Index (PyPI) is a repository of software for the Python programming language.
+You can find, install and publish Python packages with the Python Package Index e.g `boto3`, `github3api`, `jira` e.t.c
